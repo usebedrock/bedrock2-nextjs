@@ -3,10 +3,10 @@
 This repo implements [Bedrock 2](https://gist.github.com/Wolfr/38a6495eba18a2327d0d012dcc9a974b).
 
 - [x] Page tree hide/show
-- [ ] Style guide route
-    - [ ] Show a component
-    - [ ] Show a component per category
-    - [ ] Show component code using entities
+- [x] Style guide route
+    - [x] Show a component
+    - [x] Show a component per category
+    - [x] Show component code using entities
     - [ ] Toggle component code
     - [ ] Show component code highlighted using a library like Prism
 - [ ] Multiple SCSS files
